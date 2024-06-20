@@ -1,0 +1,126 @@
+{
+  "berita": [
+    {
+      "tema_berita": "kemenkes",
+      "keywords": [
+        "gejala penyakit", "pencegahan penyakit", "penyakit menular", "vaksinasi", "kesehatan mental", 
+        "poliklinik", "penyakit kronis", "perawatan kesehatan", "imunisasi", "kesehatan ibu dan anak", 
+        "staf medis", "gizi", "penyakit jantung", "pengobatan alternatif", "virus patogen", 
+        "pemantauan kesehatan", "penyakit infeksi", "penyakit menular", "teknologi medis", "kesehatan reproduksi", 
+        "pelayanan darurat", "kesehatan lingkungan", "makanan sehat", "hidup sehat", "penelitian medis", 
+        "penyakit menular baru", "virus flu", "kehamilan sehat", "pemulihan pasien", "perawatan intensif"
+      ],
+      "recommendation": ["Kesehatan", "Kemenkes", "CPNS"]
+    },
+    {
+      "tema_berita": "kemendikbud",
+      "keywords": [
+        "pendidikan inklusi", "pembelajaran online", "pengajaran guru", "pendidikan keagamaan", "dakwah",
+        "penghargaan pendidikan", "penelitian pendidikan", "perpustakaan sekolah", "pembaruan kurikulum",
+        "pemberdayaan siswa", "pengembangan literasi", "pengelolaan dosen", "akreditasi perguruan tinggi",
+        "pembiayaan pendidikan", "pemberian beasiswa", "peningkatan kualitas guru", "peningkatan mutu pendidikan",
+        "revitalisasi pendidikan", "penyelidikan pendidikan", "perluasan akses pendidikan", "pengawasan pendidikan",
+        "keamanan lingkungan sekolah", "pencegahan kekerasan sekolah", "penyuluhan pendidikan", "pelatihan kepala sekolah",
+        "pemberdayaan komite sekolah", "pemantauan pembelajaran", "pengembangan sarana belajar", "perawatan sarana pendidikan"
+      ],
+      "recommendation": ["Pendidikan", "Kemendikbud", "CPNS"]
+    },
+    {
+      "tema_berita": "kemenag",
+      "keywords": [
+        "pembinaan keagamaan", "pengembangan madrasah", "peningkatan kualitas pendeta", "pelatihan ustaz",
+        "pemberdayaan mubaligh", "pengawasan kegiatan keagamaan", "penyuluhan agama", "pencerahan iman",
+        "penyiaran kegiatan keagamaan", "pemantauan hukum agama", "penyelidikan kajian keagamaan", "perluasan wawasan agama",
+        "pengembangan kreativitas keagamaan", "penyelarasan kebijakan agama", "pencegahan radikalisme agama", "pemulihan moral masyarakat",
+        "pemantapan kerukunan umat beragama", "pembangunan sarana ibadah", "pengembangan budaya religi", "pemberdayaan aliran kepercayaan",
+        "pemasyarakatan nilai-nilai agama", "penegakan syariat Islam", "pemberdayaan kelompok minoritas agama", "pembelaan hak beragama",
+        "pencegahan penistaan agama", "peningkatan etika keagamaan", "pemantauan lembaga agama", "penyiaran dakwah agama", "perawatan fasilitas keagamaan"
+      ],
+      "recommendation": ["Agama", "Kemenag", "CPNS"]
+    },
+    {
+      "tema_berita": "kemensos",
+      "keywords": [
+        "perawatan lanjut usia", "pengasuhan anak kurang mampu", "pemberdayaan keluarga miskin", "pengawasan panti asuhan", 
+        "pencegahan kekerasan keluarga", "pendampingan masyarakat rentan", "pemulihan korban bencana", "pembinaan anak jalanan",
+        "pemantauan layanan sosial", "pengembangan kesejahteraan sosial", "peningkatan akses panti sosial", "pencegahan kecanduan narkoba",
+        "pemberdayaan disabilitas", "penanggulangan perdagangan manusia", "pengawasan perlindungan anak", "penyuluhan perlindungan sosial",
+        "perluasan jaringan bantuan sosial", "pemberdayaan perempuan dan anak", "pemulihan masyarakat terpinggirkan", "pencegahan pelecehan seksual",
+        "pemantauan kondisi keluarga", "penyelenggaraan program keluarga harapan", "pembinaan kebersamaan sosial", "pemberdayaan komunitas adat",
+        "perbaikan layanan jaminan sosial", "peningkatan kualitas layanan sosial", "pencegahan kejahatan sosial", "pengawasan penyalahgunaan dana bantuan",
+        "pemantauan kesejahteraan buruh", "pengembangan program pencegahan kemiskinan"
+      ],
+      "recommendation": ["Sosial", "Kemensos", "CPNS"]
+    },
+    {
+      "tema_berita": "kemenkumham",
+      "keywords": [
+        "pembebasan narapidana", "pengawasan penjara", "pencegahan tindak kejahatan", "penegakan aturan hukum", 
+        "pemberdayaan lembaga pemasyarakatan", "pencegahan pelanggaran hak asasi manusia", "pemantauan kasus korupsi", "pemulihan aset negara",
+        "pembelaan hak warga negara", "perawatan tahanan", "peningkatan kualitas layanan kejaksaan", "pengembangan sistem peradilan anak",
+        "perbaikan tata kelola hukum", "pembinaan advokat", "pemantauan proses peradilan", "pembinaan budaya hukum",
+        "percepatan proses hukum", "pencegahan kejahatan korporasi", "pengawasan penerapan hukum", "pemberdayaan lembaga hukum",
+        "peningkatan kapasitas kepolisian", "pemulihan korban tindak pidana", "pencegahan perdagangan manusia", "pemulihan kerugian negara",
+        "pemantauan kinerja kejaksaan", "pengembangan sistem rehabilitasi", "pembinaan hukum internasional", "perbaikan sistem peradilan pidana",
+        "pemulihan hak korban kejahatan", "pemantauan pelanggaran hak kemanusiaan"
+      ],
+      "recommendation": ["Hukum", "Kemenkumham", "CPNS"]
+    },
+    {
+      "tema_berita": "kemenkeu",
+      "keywords": [
+        "pajak pendapatan", "pengawasan penerimaan pajak", "pemulihan pajak", "pemantauan pengeluaran negara", 
+        "pemantauan inflasi ekonomi", "peningkatan pertumbuhan ekonomi", "pembinaan keuangan daerah", "pemulihan aset negara",
+        "perbaikan kualitas layanan perbendaharaan", "peningkatan efisiensi belanja negara", "pemberdayaan perekonomian daerah", "pembinaan badan usaha milik negara",
+        "pemantauan pajak daerah", "pengembangan instrumen keuangan", "pemulihan hutang negara", "pengawasan dana alokasi umum",
+        "perbaikan tata kelola keuangan", "peningkatan kualitas pelayanan pajak", "pembinaan lembaga keuangan", "pengembangan pasar modal",
+        "pemulihan kesehatan ekonomi", "pencegahan penggelapan pajak", "pemantauan kepatuhan pajak", "pengawasan pelaksanaan anggaran",
+        "perbaikan sistem perpajakan", "pengembangan kebijakan fiskal", "pembinaan pasar keuangan", "pemulihan nilai tukar mata uang",
+        "peningkatan kualitas penyuluhan pajak", "pengembangan instrumen investasi"
+      ],
+      "recommendation": ["Keuangan", "Kemenkeu", "CPNS"]
+    },
+    {
+      "tema_berita": "kemenkominfo",
+      "keywords": [
+        "pengawasan konten digital", "pemantauan jaringan internet", "pemberdayaan komunitas digital", "pencegahan kejahatan siber", 
+        "pengawasan media sosial", "peningkatan literasi digital", "pemberdayaan ekonomi digital", "pemulihan data digital",
+        "perbaikan infrastruktur telekomunikasi", "pengembangan regulasi IT", "pengawasan privasi online", "pencegahan penipuan online",
+        "pemberdayaan industri teknologi", "pembinaan startup digital", "pengembangan teknologi privasi", "pemulihan keamanan siber",
+        "perbaikan infrastruktur komunikasi", "pengawasan penetrasi internet", "pemberdayaan kebijakan teknologi", "pemulihan keberlanjutan infrastruktur",
+        "pengembangan sistem perlindungan data", "pencegahan cyberbullying", "pemberdayaan inovasi teknologi", "pemulihan keamanan data",
+        "perbaikan regulasi privasi", "pengawasan layanan digital", "pemberdayaan keberlanjutan teknologi", "pemulihan sistem informasi",
+        "pengembangan teknologi keamanan"
+      ],
+      "recommendation": ["Komunikasi", "Informatika", "Kemenkominfo", "CPNS"]
+    },
+    {
+      "tema_berita": "kemendagri",
+      "keywords": [
+        "perbaikan tata kelola pemerintahan", "pengembangan desa wisata", "pembinaan pemerintahan daerah", "perbaikan regulasi kepemerintahan", 
+        "pengawasan perencanaan pembangunan", "pemberdayaan kepala desa", "pemantauan pelaksanaan pilkada", "pembinaan keberlanjutan desa",
+        "peningkatan kualitas tata kelola", "pengembangan kelembagaan daerah", "pemulihan infrastruktur pemerintahan", "pemantauan tata kelola desa",
+        "pemulihan kondisi keamanan daerah", "pengembangan sistem administrasi", "pemantauan kualitas pelayanan publik", "pemulihan ketahanan pemerintahan",
+        "pengawasan penyelenggaraan pemerintahan", "perbaikan kapasitas birokrasi", "pengembangan sistem informasi pemerintah", "pemberdayaan pemuda desa",
+        "pemulihan pelayanan publik", "pengawasan kepatuhan regulasi daerah", "pemantauan kesejahteraan desa", "pengembangan sistem evaluasi kinerja",
+        "perbaikan tata kelola keuangan", "pengawasan administrasi desa", "pemulihan sistem informasi desa", "pengembangan sumber daya manusia daerah",
+        "pemberdayaan masyarakat adat", "perbaikan layanan publik daerah"
+      ],
+      "recommendation": ["Dalam Negeri", "Kemendagri", "CPNS"]
+    },
+    {
+      "tema_berita": "kemenhub",
+      "keywords": [
+        "pemulihan layanan transportasi", "pengawasan keselamatan transportasi", "pemberdayaan transportasi umum", "perbaikan infrastruktur transportasi",
+        "pemantauan kualitas layanan angkutan umum", "pengembangan teknologi transportasi", "pemberdayaan operator transportasi", "pengawasan tarif transportasi",
+        "pemulihan layanan lalu lintas", "pengembangan fasilitas pelabuhan", "perbaikan regulasi lalu lintas", "pemantauan keselamatan penerbangan",
+        "pemberdayaan transportasi logistik", "pengawasan ketersediaan sarana transportasi", "pemulihan layanan perkapalan", "pengembangan sistem informasi transportasi",
+        "pemberdayaan petugas lalu lintas", "perbaikan infrastruktur pelabuhan", "pengawasan kualitas layanan transportasi", "pemulihan layanan kereta api",
+        "pengembangan sistem transportasi kota", "pemberdayaan pengemudi transportasi online", "pengawasan keberlanjutan transportasi", "pemulihan layanan bandara",
+        "pengembangan sistem navigasi", "pemberdayaan angkutan sungai", "pengawasan regulasi transportasi", "pemulihan layanan angkutan barang",
+        "pengembangan infrastruktur bandara", "pemberdayaan transportasi darat"
+      ],
+      "recommendation": ["Transportasi", "Kemenhub", "CPNS"]
+    }
+  ]
+}

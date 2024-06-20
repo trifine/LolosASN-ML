@@ -1,0 +1,145 @@
+{
+  "berita": [
+    {
+      "tema_berita": "kemenkes",
+      "keywords": [
+        "kesehatan", "kementrian", "kemenkes", "menteri kesehatan", "vaksin", "pandemi", "rumah sakit",
+        "tenaga kesehatan", "WHO", "obat", "pengobatan", "perawatan", "imunisasi",
+        "virus", "penyakit", "formasi tenaga kesehatan", "infeksi", "sebaran", "mental", "gizi",
+        "perawat", "kesehatan anak", "jantung", "diabetes", "dokter", "flu",
+        "pendaftaran", "seleksi", "pengumuman", "formasi", "cpns",
+        "layanan kesehatan", "asuransi kesehatan", "klinik", "penyuluhan kesehatan", "kesehatan masyarakat",
+        "penyakit menular", "penyakit tidak menular", "virus corona", "epidemi", "kebugaran",
+        "perguruan tinggi kesehatan", "akreditasi kesehatan", "pelayanan medis", "gizi buruk", "kesehatan reproduksi",
+        "lansia sehat", "makanan sehat", "olahraga", "imunitas tubuh", "pencegahan penyakit",
+        "kebersihan sanitasi", "kesehatan gigi", "pembiayaan kesehatan", "pengobatan alternatif", "layanan darurat"
+      ],
+      "recommendation": ["Kesehatan", "Kemenkes", "CPNS"]
+    },
+    {
+      "tema_berita": "kemendikbud",
+      "keywords": [
+        "pendidikan", "kemendikbud", "sekolah", "guru", "siswa", "kurikulum", "dosen",
+        "universitas", "beasiswa", "ujian", "pendidikan tinggi", "literasi", "kebijakan pendidikan",
+        "program pendidikan", "pembelajaran", "tunjangan guru", "akreditasi", "pendaftaran", "seleksi", "pengumuman", "formasi", "cpns",
+        "pembinaan siswa", "pengajaran", "kurikulum pendidikan", "pendidikan karakter", "pendidikan inklusif",
+        "pendidikan agama", "pendidikan vokasi", "pendidikan anak usia dini", "belajar online", "bimbingan karir",
+        "pendidikan nonformal", "pendidikan jarak jauh", "pendidikan partisipatif", "pendidikan multikultural", "kurikulum 2020",
+        "pendidikan bahasa", "pendidikan kewarganegaraan", "pendidikan global", "pendidikan kecakapan hidup", "pendidikan karaktar",
+        "pendidikan agama", "pendidikan budaya", "pendidikan seni", "pendidikan ekonomi", "pendidikan sains",
+        "pendidikan teknologi", "pendidikan kesehatan", "pendidikan lingkungan", "pendidikan politik", "pendidikan sejarah"
+      ],
+      "recommendation": ["Pendidikan", "Kemendikbud", "CPNS"]
+    },
+    {
+      "tema_berita": "kemenag",
+      "keywords": [
+        "agama", "kemenag", "menteri agama", "ibadah", "haji", "umroh", "masjid",
+        "gereja", "kerukunan beragama", "pendidikan agama", "fatwa", "pondok pesantren",
+        "kitab suci", "zakat", "puasa", "lebaran", "hari raya", "ritual keagamaan",
+        "pendaftaran", "seleksi", "pengumuman", "formasi", "cpns",
+        "pengajian", "ibadah umroh", "kursus agama", "keagamaan", "pengurus masjid",
+        "bimbingan rohani", "pengajian umum", "pondok pesantren", "khotbah jumat", "pendidikan agama islam",
+        "pengajian keluarga", "tausiyah", "pengajian remaja", "pengajian ibu-ibu", "halaqah", "tahlil",
+        "majelis taklim", "musyawarah", "mukernas", "syukuran", "silsilah",
+        "pengajian malam", "pengajian pagi", "pengajian dhuha", "pengajian jumat", "pengajian ramadhan"
+      ],
+      "recommendation": ["Agama", "Kemenag", "CPNS"]
+    },
+    {
+      "tema_berita": "kemensos",
+      "keywords": [
+        "sosial", "kemensos", "bantuan sosial", "bansos", "panti asuhan", "kemiskinan", "pemberdayaan sosial",
+        "perlindungan sosial", "korban bencana", "tunawisma", "penyandang disabilitas", "lansia",
+        "pemberdayaan perempuan", "anak jalanan", "ketahanan sosial", "pendaftaran", "seleksi", "pengumuman", "formasi", "cpns",
+        "rumah singgah", "program sosial", "rumah susun", "bantuan tunai", "program keluarga harapan",
+        "bantuan langsung", "rumah singgah", "bantuan korban", "bantuan terdampak", "bantuan pemerintah",
+        "penyaluran bantuan", "dinsos", "asrama", "pengungsi", "kemalangan sosial",
+        "bantuan masyarakat", "bantuan pendidikan", "bantuan sembako", "program perlindungan", "program bantuan",
+        "bansos covid", "bantuan pangan", "bansos provinsi", "bansos daerah", "bansos pemerintah"
+      ],
+      "recommendation": ["Sosial", "Kemensos", "CPNS"]
+    },
+    {
+      "tema_berita": "kemenkumham",
+      "keywords": [
+        "hukum", "kemenkumham", "menteri hukum", "keadilan", "penegakan hukum", "peraturan", "perundang-undangan",
+        "hak asasi manusia", "pengadilan", "narapidana", "penjara", "tahanan", "kasus hukum", "korupsi",
+        "pendaftaran", "seleksi", "pengumuman", "formasi", "cpns",
+        "badan hukum", "pengacara", "perdata", "pidana", "advokat",
+        "saksi", "kepolisian", "kantor hukum", "putusan pengadilan", "kejaksaan",
+        "putusan hakim", "pengaduan hukum", "hakim", "saksi ahli", "litigasi",
+        "penuntutan", "vonis", "dokumen hukum", "persidangan", "banding",
+        "perdata", "pidana", "perdata pidana", "notaris", "kantor notaris",
+        "penyidik", "kantor notaris", "penahanan", "pengaduan masyarakat", "pendaftaran perkawinan",
+        "pelayanan hukum", "layanan notaris", "penyidikan kriminal", "penyidikan pidana", "peradilan anak"
+      ],
+      "recommendation": ["Hukum", "Kemenkumham", "CPNS"]
+    },
+    {
+      "tema_berita": "kemenkeu",
+      "keywords": [
+        "keuangan", "kemenkeu", "menteri keuangan", "anggaran", "pajak", "APBN", "pendapatan negara",
+        "belanja negara", "utang negara", "defisit", "surplus", "perbendaharaan negara", "beasiswa LPDP",
+        "investasi pemerintah", "pendanaan", "subsidi",
+        "pendaftaran", "seleksi", "pengumuman", "formasi", "cpns",
+        "investasi", "bank sentral", "pinjaman", "perbendaharaan", "rekening negara",
+        "utang pemerintah", "fiskal", "moneter", "inflasi", "neraca pembayaran",
+        "kas negara", "pendapatan pajak", "pendapatan negara", "pengeluaran negara", "keuangan publik",
+        "kebijakan fiskal", "kebijakan moneter", "uang negara", "kas daerah", "arus kas",
+        "pengelolaan keuangan", "pendapatan per kapita", "penerimaan negara", "sistem perbankan", "kredit bank",
+        "perbankan nasional", "laporan keuangan", "rekening bank", "transaksi keuangan", "perencanaan keuangan"
+      ],
+      "recommendation": ["Keuangan", "Kemenkeu", "CPNS"]
+    },
+    {
+      "tema_berita": "kemenkominfo",
+      "keywords": [
+        "komunikasi", "informatika", "kemenkominfo", "menteri kominfo", "internet", "teknologi informasi",
+        "telekomunikasi", "media massa", "sosial media", "berita hoaks", "informasi publik", "keterbukaan informasi",
+        "cyber security", "digitalisasi", "transformasi digital", "regulasi IT", "infrastruktur TIK", 
+        "penyiaran", "privasi data", "perlindungan data pribadi", "komunikasi publik",
+        "pendaftaran", "seleksi", "pengumuman", "formasi", "cpns",
+        "keamanan siber", "layanan digital", "teknologi online", "e-government", "sertifikasi digital",
+        "keamanan informasi", "siber crime", "kejahatan siber", "keamanan data", "sertifikasi teknologi",
+        "sertifikasi sistem", "kebijakan digital", "layanan online", "keamanan jaringan", "sertifikasi keamanan",
+        "keamanan siber nasional", "pengawasan siber", "insiden siber", "pengamanan data", "kebijakan keamanan",
+        "sistem keamanan", "pengujian keamanan", "pengawasan keamanan", "audit keamanan", "pelaporan keamanan"
+      ],
+      "recommendation": ["Komunikasi", "Informatika", "Kemenkominfo", "CPNS"]
+    },
+    {
+      "tema_berita": "kemendagri",
+      "keywords": [
+        "dalam negeri", "kemendagri", "menteri dalam negeri", "otonomi daerah", "pemerintahan daerah",
+        "pilkada", "desa", "kelurahan", "kabupaten", "provinsi", "kemendagri", "birokrasi", "reformasi birokrasi",
+        "tata kelola pemerintahan", "kependudukan", "kewarganegaraan", "administrasi pemerintahan", 
+        "politik lokal", "keamanan dalam negeri", "wilayah", "perbatasan", "kapasitas pemerintah daerah",
+        "pendaftaran", "seleksi", "pengumuman", "formasi", "cpns",
+        "otda", "pemilu", "pemilihan kepala daerah", "kependudukan", "pelayanan publik",
+        "perizinan", "perangkat desa", "dprd", "perangkat daerah", "dana desa",
+        "pembiayaan daerah", "bumd", "bumn", "pajak daerah", "pembangunan daerah",
+        "pembangunan desa", "pembangunan kota", "dana alokasi umum", "dana alokasi khusus", "anggaran daerah",
+        "belanja daerah", "retribusi daerah", "pendapatan daerah", "pengelolaan keuangan daerah", "kebijakan daerah"
+      ],
+      "recommendation": ["Dalam Negeri", "Kemendagri", "CPNS"]
+    },
+    {
+      "tema_berita": "kemenhub",
+      "keywords": [
+        "transportasi", "kemenhub", "menteri perhubungan", "angkutan umum", "jalan raya", "kereta api", 
+        "bandara", "pelabuhan", "lalu lintas", "keselamatan transportasi", "transportasi publik", 
+        "infrastruktur transportasi", "kecelakaan transportasi", "regulasi transportasi", "kendaraan bermotor",
+        "angkutan barang", "jasa transportasi", "logistik", "tarif transportasi", "transportasi laut",
+        "transportasi udara", "transportasi darat", "pembangunan transportasi",
+        "pendaftaran", "seleksi", "pengumuman", "formasi", "cpns",
+        "pengaturan transportasi", "transportasi massal", "sarana transportasi", "layanan transportasi", "manajemen lalu lintas",
+        "armada transportasi", "pengelolaan transportasi", "angkutan umum", "pengendalian transportasi", "pelayanan transportasi",
+        "pengaturan lalu lintas", "infrastruktur jalan", "infrastruktur bandara", "infrastruktur pelabuhan", "transportasi nasional",
+        "peraturan transportasi", "keamanan transportasi", "penyeberangan laut", "pelabuhan laut", "bandara internasional",
+        "transportasi regional", "transportasi darat", "transportasi air", "transportasi kota", "armada kapal"
+      ],
+      "recommendation": ["Transportasi", "Kemenhub", "CPNS"]
+    }
+  ]
+}
