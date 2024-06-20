@@ -7,6 +7,7 @@ The Machine Learning component of this application involves building a classific
 1. **Classification Model**
 
 We used the Mockaroo platform to create the dataset
-3. **Recommendation System**
+
+2. **Recommendation System**
 
 The dataset we use comes from CNBC, Kompas, CNN, Detik and Kompas.com. We collected article titles, news links, image links, and some content from the articles. To retrieve this dataset, we used the Beautiful Soup HTML parser method. 
